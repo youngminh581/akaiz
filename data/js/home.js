@@ -27,5 +27,5 @@ function removeAllChildNodes(parent) {
 function clearLoli(){
     let div = document.getElementById('flex-loli-gen');
     removeAllChildNodes(div);
-    i = 1;
+    i = 0;
 }
